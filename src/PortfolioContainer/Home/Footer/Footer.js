@@ -6,7 +6,7 @@ function Footer(props) {
     <div className="footer-container">
       <div className="footer-parent">
         <img
-          src={require("../../assets/Home/shape-bg.png")}
+          src={require("../../../assets/Home/shape-bg.png")}
           alt="curved shape background in the header"
         />
       </div>
